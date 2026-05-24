@@ -125,4 +125,3 @@ The ESOL (Estimated SOLubility) dataset was introduced by Delaney (2004) and is 
 An independent project developed alongside my Masters in AI for Drug Development. It demonstrates end-to-end cheminformatics and machine learning skills — molecular featurisation, scaffold-aware data splitting, multi-model benchmarking, and neural network implementation — directly applicable to computational drug discovery and AI-assisted molecular property prediction roles.
 ---
 
-## Project Structure
